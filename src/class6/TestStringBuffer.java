@@ -26,6 +26,7 @@ public class TestStringBuffer {
         StringBuilder builder = new StringBuilder() ;
         builder.append("shahzad") ;
         builder.insert(2, "masud") ;
+        builder.toString() ;
     }
     
 }
