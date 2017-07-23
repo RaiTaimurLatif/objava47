@@ -23,7 +23,7 @@ public class TestAccess {
         
         // access 
         // <default> = Only accessible in package
-        Point p = new Point() ;
+//        Point p = new Point() ;
         // public = Accessible from all 
         // protected = Package + child class
         // private = only for class
