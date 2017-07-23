@@ -16,7 +16,7 @@ public class Point {
     double y;
 
     // (No Argument | Default) Constructor
-    Point() {
+    public Point() {
         this(0.0, 0.0);
     }
 
